@@ -4,3 +4,11 @@
           https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
           https://www.jenkins.io/doc/book/pipeline/docker/
 
+
+
+# Basic cmds
+    >> docker ps
+    >> docker pull
+    >> docker run
+
+
